@@ -1,0 +1,6 @@
+{
+  "name": "Micro-Invoicing & Receipt Generator",
+  "description": "A premium, minimalist invoicing and receipt generation tool with custom tax, real-time calculations, dark mode, and instant PDF download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
